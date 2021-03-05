@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "fer",
 	"description" : "Only for learning",
-	"keywords": ["learning", "only", "freecodecamp"]
+	"keywords": ["learning", "only", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
