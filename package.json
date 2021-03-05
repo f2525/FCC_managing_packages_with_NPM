@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "fer",
-	"description" : "Only for learning",
+	"description" : "Only for learning FCC",
 	"keywords": ["learning", "only", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.1.0",
